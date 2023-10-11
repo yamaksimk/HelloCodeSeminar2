@@ -1,7 +1,7 @@
 ﻿Console.Clear();
 
 int n = new Random().Next(10, 100);
-Console.WriteLine("Рандомное число" + n);
+Console.WriteLine("Рандомное число " + n);
 
 int n1 = n / 10;
 int n2 = n % 10;
